@@ -27,6 +27,7 @@ public class HistogramGenerator extends Application {
         xAxis.setLabel("Registration");
         yAxis.setLabel("Times flown");
         yAxis.setMinorTickVisible(false);
+        bc.setLegendVisible(false);
         XYChart.Series topRegistrations = new XYChart.Series();
         for(int i = 0; i < n; i++) {
             topRegistrations.getData().add(new XYChart.Data(keys.get(i), values.get(i)));
