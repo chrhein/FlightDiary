@@ -20,7 +20,7 @@ public class HistogramGenerator extends Application {
                 .limit(n).collect(Collectors.toList());
         stage.setTitle("Flight Diary");
         final CategoryAxis xAxis = new CategoryAxis();
-        final NumberAxis yAxis = new NumberAxis();
+        final NumberAxis yAxis = new NumberAxis(0, values.get(0), 1);
         final BarChart<String,Number> bc =
                 new BarChart<>(xAxis,yAxis);
         bc.setTitle("Flight Diary");
