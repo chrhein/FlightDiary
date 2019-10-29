@@ -14,7 +14,8 @@ public class FlightDiary {
         br = new BufferedReader(new FileReader(csvFile));
         while ((line = br.readLine()) != null) {
             String[] s = line.split(cvsSplitBy);
-            if(!s[9].equals("")) regs.add(s[9]);
+            String reg = s[9];
+            if(!reg.equals("")) regs.add(reg);
         }
         countFrequencies(regs);
     }
@@ -25,7 +26,6 @@ public class FlightDiary {
             Integer j = hm.get(i);
             hm.put(i, (j == null) ? 1 : j + 1);
         }
-        System.out.println("Antall forskjellige regs: "+hm.size());
         Map<String, Integer> sorted = hm
                 .entrySet()
                 .stream()
@@ -33,9 +33,14 @@ public class FlightDiary {
                 .collect(
                         toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e2,
                                 LinkedHashMap::new));
-        for (Map.Entry<String, Integer> val : sorted.entrySet()) {
-            System.out.printf("%s forekommer: %d %s%n",
-                    val.getKey(), val.getValue(), (val.getValue() == 1) ? "gang" : "ganger");
+        printOut(sorted);
+    }
+
+    private static void printOut(Map<String, Integer> hm) {
+        System.out.println("Unique registrations: "+hm.size());
+        for (Map.Entry<String, Integer> val : hm.entrySet()) {
+            System.out.printf("%s: %d %s%n",
+                    val.getKey(), val.getValue(), (val.getValue() == 1) ? "time" : "times");
         }
     }
 }
