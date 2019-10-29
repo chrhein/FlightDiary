@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e992218d-2c33-4999-a4eb-434c50f612a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/FDCSV/HistogramGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FDCSV/HistogramGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlightDiary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlightDiary.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572279632023</updated>
-      <workItem from="1572279633541" duration="11779000" />
+      <workItem from="1572279633541" duration="12015000" />
     </task>
     <servers />
   </component>

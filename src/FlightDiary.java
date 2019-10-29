@@ -20,9 +20,10 @@ public class FlightDiary extends HistogramGenerator {
             String reg = s[9];
             if (!reg.equals("")) regs.add(reg);
         }
-        Scanner in = new Scanner(System.in);
-        System.out.print("How many unique registrations do you want to see? ");
-        amountToShow = in.nextInt();
+//        Scanner in = new Scanner(System.in);
+//        System.out.print("How many unique registrations do you want to see? ");
+//        amountToShow = in.nextInt();
+        amountToShow = 10;
         countFrequencies(regs);
         launch(args);
     }
