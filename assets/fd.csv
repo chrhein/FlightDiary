@@ -1,3 +1,4 @@
+Date,"Flight number",From,To,"Dep time","Arr time",Duration,Airline,Aircraft,Registration,"Seat number","Seat type","Flight class","Flight reason",Dep_id,Arr_id,Airline_id,Aircraft_id
 2012-03-31,KL1196,Stavanger / Sola (SVG/ENZV),Amsterdam / Schiphol (AMS/EHAM),06:35:00,08:05:00,01:30:00,KLM Royal Dutch Airlines (KL/KLM),Boeing 737-700 (B737),PH-BGT,,1,1,1,2809,122,440,230
 2012-07-11,VS006,Miami / Miami International (MIA/KMIA),London / Heathrow (LHR/EGLL),20:45:00,10:25:00,08:40:00,Virgin Atlantic (VS/VIR),Airbus A340-600 (A346),G-VFOX,,2,1,1,1831,1618,835,36
 2012-07-12,SK4030,London / Heathrow (LHR/EGLL),Stavanger / Sola (SVG/ENZV),12:05:00,14:55:00,01:50:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-TUF,,1,1,1,1618,2809,677,229

@@ -18,11 +18,8 @@ public class FlightDiary extends HistogramGenerator {
         while ((line = br.readLine()) != null) {
             String[] s = line.split(csvSplitBy);
             String reg = s[9];
-            if (!reg.equals("")) regs.add(reg);
+            if (!reg.equals("") && !reg.equals("Registration")) regs.add(reg);
         }
-//        Scanner in = new Scanner(System.in);
-//        System.out.print("How many unique registrations do you want to see? ");
-//        amountToShow = in.nextInt();
         amountToShow = 10;
         countFrequencies(regs);
         launch(args);
@@ -41,7 +38,7 @@ public class FlightDiary extends HistogramGenerator {
                 .collect(
                         toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e2,
                                 LinkedHashMap::new));
-        //printOut(sorted);
+        printOut(sorted);
     }
 
     private static void printOut(Map<String, Integer> hm) {

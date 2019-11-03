@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e992218d-2c33-4999-a4eb-434c50f612a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fd.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extras/fd.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extras/result.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/result.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fd.csv" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fd.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FlightDiary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlightDiary.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,7 +94,8 @@
       <option name="presentableId" value="Default" />
       <updated>1572279632023</updated>
       <workItem from="1572279633541" duration="13108000" />
-      <workItem from="1572794778472" duration="209000" />
+      <workItem from="1572794778472" duration="394000" />
+      <workItem from="1572795193350" duration="472000" />
     </task>
     <servers />
   </component>
