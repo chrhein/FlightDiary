@@ -9,14 +9,14 @@ public class FlightDiary extends HistogramGenerator {
     private static int amountToShow;
 
     public static void main(String[] args) throws IOException {
-        String csvFile = "Extras/fd.csv";
+        String csvFile = "assets/fd.csv";
         BufferedReader br;
         String line;
-        String cvsSplitBy = ";";
+        String csvSplitBy = ",";
         ArrayList<String> regs = new ArrayList<>();
         br = new BufferedReader(new FileReader(csvFile));
         while ((line = br.readLine()) != null) {
-            String[] s = line.split(cvsSplitBy);
+            String[] s = line.split(csvSplitBy);
             String reg = s[9];
             if (!reg.equals("")) regs.add(reg);
         }

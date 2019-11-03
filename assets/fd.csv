@@ -1,0 +1,339 @@
+2012-03-31,KL1196,Stavanger / Sola (SVG/ENZV),Amsterdam / Schiphol (AMS/EHAM),06:35:00,08:05:00,01:30:00,KLM Royal Dutch Airlines (KL/KLM),Boeing 737-700 (B737),PH-BGT,,1,1,1,2809,122,440,230
+2012-07-11,VS006,Miami / Miami International (MIA/KMIA),London / Heathrow (LHR/EGLL),20:45:00,10:25:00,08:40:00,Virgin Atlantic (VS/VIR),Airbus A340-600 (A346),G-VFOX,,2,1,1,1831,1618,835,36
+2012-07-12,SK4030,London / Heathrow (LHR/EGLL),Stavanger / Sola (SVG/ENZV),12:05:00,14:55:00,01:50:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-TUF,,1,1,1,1618,2809,677,229
+2012-06-21,VS045,London / Heathrow (LHR/EGLL),New York / John F Kennedy (JFK/KJFK),12:00:00,15:05:00,08:05:00,Virgin Atlantic (VS/VIR),Boeing 747-400 (B744),G-VHOT,,2,1,1,1618,1328,835,237
+2012-05-19,DY521,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),06:35:00,07:15:00,00:40:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-DYI,,1,1,1,2809,2219,552,231
+2010-07-27,SK4008,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),08:00:00,08:50:00,00:50:00,Scandinavian Airlines (SK/SAS),Boeing 737-400 (B734),LN-BUF,,1,1,1,2809,2219,677,227
+2012-05-19,DY544,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),19:00:00,19:50:00,00:50:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-300 (B733),LN-KKO,,1,1,1,2219,2809,552,226
+2010-07-27,SK4051,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),21:45:00,22:35:00,00:50:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RNN,,1,1,1,2219,2809,677,230
+2010-06-17,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:00:00,07:20:00,01:20:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),OY-KFG,,1,1,1,2809,606,677,531
+2010-06-17,SK909,Copenhagen / Kastrup (CPH/EKCH),Newark / Liberty International (EWR/KEWR),12:25:00,14:50:00,08:25:00,Scandinavian Airlines (SK/SAS),Airbus A330-300 (A333),SE-REE,,1,1,1,606,851,677,31
+2010-06-20,UA642,New York / John F Kennedy (JFK/KJFK),San Francisco / San Francisco International (SFO/KSFO),11:30:00,14:57:00,06:27:00,United Airlines (UA/UAL),Boeing 757-200 (B752),N517UA,,1,1,1,1328,2644,808,241
+2010-07-07,LH451,Los Angeles / Los Angeles International (LAX/KLAX),Frankfurt am Main / Frankfurt (FRA/EDDF),19:00:00,14:40:00,10:40:00,Lufthansa (LH/DLH),Airbus A340-600 (A346),D-AIHY,,2,1,1,1559,919,239,36
+2013-03-23,LH879,Stavanger / Sola (SVG/ENZV),Frankfurt am Main / Frankfurt (FRA/EDDF),06:35:00,08:45:00,02:10:00,Lufthansa (LH/DLH),Embraer ERJ-190 (E190),D-AECB,,1,1,1,2809,919,239,655
+2013-03-23,LH1218,Frankfurt am Main / Frankfurt (FRA/EDDF),Geneva / Cointrin (GVA/LSGG),13:15:00,14:15:00,01:00:00,Lufthansa (LH/DLH),Boeing 737-300 (B733),D-ABIT,,2,1,1,919,1065,239,226
+2013-03-30,LH1223,Geneva / Cointrin (GVA/LSGG),Frankfurt am Main / Frankfurt (FRA/EDDF),18:25:00,19:45:00,01:20:00,Lufthansa (LH/DLH),Boeing 737-300 (B733),D-ABEW,16A,1,1,1,1065,919,239,226
+2013-03-30,LH878,Frankfurt am Main / Frankfurt (FRA/EDDF),Stavanger / Sola (SVG/ENZV),21:55:00,23:40:00,01:45:00,Lufthansa (LH/DLH),Embraer ERJ-190 (E190),D-AECC,6F,1,1,1,919,2809,239,655
+2013-06-01,DY1016,Stavanger / Sola (SVG/ENZV),Krakow / John Paul II International (KRK/EPKK),06:50:00,08:55:00,02:05:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NON,,1,1,1,2809,1489,552,231
+2013-06-04,DY1041,Krakow / John Paul II International (KRK/EPKK),Oslo / Gardermoen (OSL/ENGM),13:15:00,15:20:00,02:05:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NOV,,1,1,1,1489,2219,552,231
+2013-06-04,DY536,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),18:55:00,19:50:00,00:55:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NOQ,,1,1,1,2219,2809,552,231
+2013-06-23,BA745,Stavanger / Sola (SVG/ENZV),London / Heathrow (LHR/EGLL),12:00:00,12:55:00,01:55:00,British Airways (BA/BAW),Airbus A320-200 (A320),G-EUUI,,1,4,1,2809,1618,113,2059
+2013-06-23,VS23,London / Heathrow (LHR/EGLL),Los Angeles / Los Angeles International (LAX/KLAX),15:35:00,19:05:00,11:30:00,Virgin Atlantic (VS/VIR),Airbus A340-600 (A346),G-VBUG,,2,1,1,1618,1559,835,36
+2013-07-09,VS008,Los Angeles / Los Angeles International (LAX/KLAX),London / Heathrow (LHR/EGLL),19:15:00,14:05:00,10:50:00,Virgin Atlantic (VS/VIR),Airbus A340-600 (A346),G-VEIL,,1,1,1,1559,1618,835,36
+2013-07-10,BA746,London / Heathrow (LHR/EGLL),Stavanger / Sola (SVG/ENZV),17:00:00,19:45:00,01:45:00,British Airways (BA/BAW),Airbus A319-100 (A319),G-EUPW,,1,1,1,1618,2809,113,2073
+2013-10-11,SK4006,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),07:30:00,08:20:00,00:50:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RPF,,1,1,1,2809,2219,677,229
+2013-10-11,SK4051,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),22:05:00,22:55:00,00:50:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RRK,,1,1,1,2219,2809,677,231
+2013-10-26,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:00:00,07:10:00,01:10:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAM,17A,1,1,1,2809,606,677,2059
+2013-10-26,SK1876,Copenhagen / Kastrup (CPH/EKCH),Stavanger / Sola (SVG/ENZV),21:05:00,22:15:00,01:10:00,Scandinavian Airlines (SK/SAS),Airbus A319-100 (A319),OY-KBP,15A,1,1,1,606,2809,677,2073
+2013-10-26,SK7080,Copenhagen / Kastrup (CPH/EKCH),Aalborg / Aalborg (AAL/EKYT),10:30:00,11:00:00,00:30:00,Scandinavian Airlines (SK/SAS),McDonnell Douglas MD-82 (MD82),LN-RMM,26F,1,1,1,606,6,677,1186
+2013-10-26,SK7080,Aalborg / Aalborg (AAL/EKYT),Billund / Billund (BLL/EKBI),11:00:00,11:30:00,00:30:00,Scandinavian Airlines (SK/SAS),McDonnell Douglas MD-82 (MD82),LN-RMM,26F,1,1,1,6,345,677,1186
+2013-10-26,SK7080,Billund / Billund (BLL/EKBI),Copenhagen / Kastrup (CPH/EKCH),11:30:00,12:30:00,01:00:00,Scandinavian Airlines (SK/SAS),McDonnell Douglas MD-82 (MD82),LN-RMM,26F,1,1,1,345,606,677,1186
+2014-03-28,KL1196,Stavanger / Sola (SVG/ENZV),Amsterdam / Schiphol (AMS/EHAM),06:00:00,07:35:00,01:35:00,KLM Royal Dutch Airlines (KL/KLM),Boeing 737-800 (B738),PH-BXV,24F,1,1,1,2809,122,440,231
+2014-03-28,KL1263,Amsterdam / Schiphol (AMS/EHAM),Nice / Nice Cote D'Azur (NCE/LFMN),09:45:00,11:40:00,01:55:00,KLM Royal Dutch Airlines (KL/KLM),Embraer ERJ-190 (E190),PH-EXB,24F,1,1,1,122,2027,440,655
+2014-03-31,AF7715,Nice / Nice Cote D'Azur (NCE/LFMN),Paris / Charles de Gaulle (CDG/LFPG),16:05:00,17:40:00,01:35:00,Air France (AF/AFR),Airbus A320-200 (A320),F-GKXE,15F,1,1,1,2027,509,34,2059
+2014-03-31,AF1746,Paris / Charles de Gaulle (CDG/LFPG),Stavanger / Sola (SVG/ENZV),19:20:00,21:25:00,02:05:00,Air France (AF/AFR),Embraer ERJ-170 (E170),F-HBXG,17F,1,1,1,509,2809,34,654
+2014-04-12,LH879,Stavanger / Sola (SVG/ENZV),Frankfurt am Main / Frankfurt (FRA/EDDF),06:40:00,08:15:00,01:35:00,Lufthansa (LH/DLH),Boeing 737-500 (B735),D-ABIX,21F,1,1,1,2809,919,239,228
+2014-04-12,LH1270,Frankfurt am Main / Frankfurt (FRA/EDDF),Innsbruck / Innsbruck (INN/LOWI),12:40:00,13:40:00,01:00:00,Austrian Airlines (OS/AUA),Bombardier Dash 8-400 (DH8D),OE-LGI,14F,1,1,1,919,1248,87,610
+2014-04-19,LH1271,Innsbruck / Innsbruck (INN/LOWI),Frankfurt am Main / Frankfurt (FRA/EDDF),14:30:00,15:40:00,01:10:00,Austrian Airlines (OS/AUA),Bombardier Dash 8-400 (DH8D),OE-LGN,8F,1,1,1,1248,919,87,610
+2014-04-19,LH878,Frankfurt am Main / Frankfurt (FRA/EDDF),Stavanger / Sola (SVG/ENZV),21:45:00,23:35:00,01:25:00,Lufthansa (LH/DLH),Boeing 737-500 (B735),D-ABJB,14A,1,1,1,919,2809,239,228
+2010-09-25,DY121,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),07:00:00,07:25:00,00:25:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NOF,,1,1,1,2809,289,552,231
+2012-03-31,KL1263,Amsterdam / Schiphol (AMS/EHAM),Nice / Nice Cote D'Azur (NCE/LFMN),09:45:00,11:40:00,01:55:00,KLM Royal Dutch Airlines (KL/KLM),Embraer ERJ-190 (E190),PH-EZE,,1,1,1,122,2027,440,655
+2014-06-19,SK4006,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),07:25:00,08:20:00,00:55:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-TUL,14A,1,1,1,2809,2219,677,230
+2014-06-19,SK4053,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),22:45:00,23:40:00,00:55:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RRD,14F,1,1,1,2219,2809,677,229
+2011-03-04,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:00:00,07:15:00,01:15:00,Scandinavian Airlines (SK/SAS),McDonnell Douglas MD-82 (MD82),OY-KHP,,1,1,1,2809,606,677,1186
+2011-03-04,SK613,Copenhagen / Kastrup (CPH/EKCH),Geneva / Cointrin (GVA/LSGG),08:40:00,10:50:00,02:10:00,Scandinavian Airlines (SK/SAS),McDonnell Douglas MD-82 (MD82),LN-ROX,,1,1,1,606,1065,677,1186
+2011-03-12,SK618,Geneva / Cointrin (GVA/LSGG),Copenhagen / Kastrup (CPH/EKCH),17:30:00,19:40:00,02:10:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),OY-KBB,1A,1,4,1,1065,606,677,2076
+2011-03-12,SK1878,Copenhagen / Kastrup (CPH/EKCH),Stavanger / Sola (SVG/ENZV),21:05:00,22:15:00,01:10:00,Scandinavian Airlines (SK/SAS),Airbus A319-100 (A319),OY-KBR,1A,1,4,1,606,2809,677,2073
+2011-04-23,KL1262,Nice / Nice Cote D'Azur (NCE/LFMN),Amsterdam / Schiphol (AMS/EHAM),11:30:00,13:25:00,01:55:00,KLM Royal Dutch Airlines (KL/KLM),Embraer ERJ-190 (E190),PH-EZR,,1,1,1,2027,122,440,655
+2011-04-23,KL1203,Amsterdam / Schiphol (AMS/EHAM),Stavanger / Sola (SVG/ENZV),15:00:00,16:40:00,01:40:00,KLM Royal Dutch Airlines (KL/KLM),Boeing 737-300 (B733),PH-BDT,,1,1,1,122,2809,440,226
+2011-07-07,SK4016,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),10:20:00,11:15:00,00:55:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RPK,18A,1,1,1,2809,2219,677,230
+2011-07-07,TP507,Oslo / Gardermoen (OSL/ENGM),Lisbon / Portela (LIS/LPPT),15:00:00,18:00:00,04:00:00,TAP Air Portugal (TP/TAP),Airbus A320-200 (A320),CS-TNG,,1,1,1,2219,1632,753,2059
+2011-07-21,TP504,Lisbon / Portela (LIS/LPPT),Copenhagen / Kastrup (CPH/EKCH),09:00:00,13:25:00,03:25:00,TAP Air Portugal (TP/TAP),Airbus A319-100 (A319),CS-TTB,,1,1,1,1632,606,753,2073
+2011-07-21,SK1874,Copenhagen / Kastrup (CPH/EKCH),Stavanger / Sola (SVG/ENZV),16:25:00,17:40:00,01:15:00,Scandinavian Airlines (SK/SAS),McDonnell Douglas MD-82 (MD82),SE-DIP,,1,1,1,606,2809,677,1186
+2014-06-30,WF433,Stavanger / Sola (SVG/ENZV),Torp / Sandefjord (TRF/ENTO),07:35:00,08:20:00,00:45:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDH,17A,1,1,1,2809,3005,832,610
+2014-06-30,WF408,Torp / Sandefjord (TRF/ENTO),Bergen / Flesland (BGO/ENBR),10:15:00,11:10:00,00:55:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDG,2D,1,4,1,3005,289,832,610
+2014-06-30,WF616,Bergen / Flesland (BGO/ENBR),Tromso / Tromso (TOS/ENTC),12:40:00,15:00:00,02:20:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDG,2D,1,4,1,289,2989,832,610
+2014-07-01,WF932,Tromso / Tromso (TOS/ENTC),Sorkjosen / Sorkjosen (SOJ/ENSR),10:30:00,11:00:00,00:30:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIP,4D,1,1,1,2989,2740,832,607
+2014-07-01,WF932,Sorkjosen / Sorkjosen (SOJ/ENSR),Hammerfest / Hammerfest (HFT/ENHF),11:15:00,11:45:00,00:30:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIP,3A,1,1,1,2740,1119,832,607
+2014-07-01,WF932,Hammerfest / Hammerfest (HFT/ENHF),Mehamn / Mehamn (MEH/ENMR),12:00:00,12:35:00,00:35:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIP,3A,1,1,1,1119,4013,832,607
+2014-07-01,WF932,Mehamn / Mehamn (MEH/ENMR),Berlevag / Berlevaag (BVG/ENBV),12:50:00,13:05:00,00:15:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIP,3A,1,1,1,4013,447,832,607
+2014-07-01,WF932,Berlevag / Berlevaag (BVG/ENBV),Vadso / Vadso (VDS/ENVD),13:20:00,13:45:00,00:25:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIP,3A,1,1,1,447,3159,832,607
+2014-07-01,WF937,Vadso / Vadso (VDS/ENVD),Batsfjord / Batsfjord (BJF/ENBS),16:50:00,17:10:00,00:20:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIF,10D,1,1,1,3159,319,832,607
+2014-07-01,WF937,Batsfjord / Batsfjord (BJF/ENBS),Mehamn / Mehamn (MEH/ENMR),17:25:00,17:50:00,00:25:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIF,10D,1,1,1,319,4013,832,607
+2014-07-01,WF937,Mehamn / Mehamn (MEH/ENMR),Honningsvag / Valan (HVG/ENHV),18:05:00,18:25:00,00:20:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIF,10D,1,1,1,4013,1195,832,607
+2014-07-01,WF937,Honningsvag / Valan (HVG/ENHV),Hammerfest / Hammerfest (HFT/ENHF),18:40:00,19:05:00,00:25:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIF,10D,1,1,1,1195,1119,832,607
+2014-07-01,WF937,Hammerfest / Hammerfest (HFT/ENHF),Sorkjosen / Sorkjosen (SOJ/ENSR),19:20:00,19:50:00,00:30:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIF,10D,1,1,1,1119,2740,832,607
+2014-07-01,WF937,Sorkjosen / Sorkjosen (SOJ/ENSR),Tromso / Tromso (TOS/ENTC),20:05:00,20:30:00,00:25:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIF,10D,1,1,1,2740,2989,832,607
+2014-07-02,WF516,Bergen / Flesland (BGO/ENBR),Molde / Molde (MOL/ENML),17:40:00,18:30:00,00:50:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDG,4D,1,4,1,289,1908,832,610
+2014-07-02,WF517,Molde / Molde (MOL/ENML),Bergen / Flesland (BGO/ENBR),18:55:00,19:50:00,00:55:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDG,18A,1,1,1,1908,289,832,610
+2014-07-02,WF549,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),20:20:00,20:50:00,00:30:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDG,06A,1,4,1,289,2809,832,610
+2014-07-03,WF471,Stavanger / Sola (SVG/ENZV),Kristiansand / Kjevik (KRS/ENCN),15:20:00,16:00:00,00:40:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFU,12A,1,4,1,2809,1494,832,609
+2014-07-03,WF594,Kristiansand / Kjevik (KRS/ENCN),Bergen / Flesland (BGO/ENBR),16:25:00,17:25:00,01:00:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFU,12D,1,1,1,1494,289,832,609
+2014-07-03,WF507,Bergen / Flesland (BGO/ENBR),Haugesund / Karmoy (HAU/ENHD),18:50:00,19:20:00,00:30:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFC,11A,1,4,1,289,1097,832,609
+2014-07-02,WF463,Tromso / Tromso (TOS/ENTC),Bodo / Bodo (BOO/ENBO),08:55:00,09:50:00,00:55:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-RDZ,18D,1,1,1,2989,377,832,610
+2014-07-02,WF806,Bodo / Bodo (BOO/ENBO),Leknes / Leknes (LKN/ENLK),11:00:00,11:25:00,00:25:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIF,8D,1,1,1,377,1639,832,607
+2014-07-02,WF807,Leknes / Leknes (LKN/ENLK),Bodo / Bodo (BOO/ENBO),11:40:00,12:05:00,00:25:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIF,0C,1,1,1,1639,377,832,607
+2014-07-02,WF615,Bodo / Bodo (BOO/ENBO),Bergen / Flesland (BGO/ENBR),14:55:00,16:45:00,01:50:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDG,5D,1,1,1,377,289,832,610
+2014-07-07,WF433,Stavanger / Sola (SVG/ENZV),Torp / Sandefjord (TRF/ENTO),07:35:00,08:20:00,00:45:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDF,20A,1,1,1,2809,3005,832,610
+2014-07-07,WF464,Torp / Sandefjord (TRF/ENTO),Harstad-Narvik / Harstad-Narvik (EVE/ENEV),11:10:00,13:20:00,02:10:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-RDZ,17A,1,1,1,3005,845,832,610
+2014-07-07,WF634,Harstad-Narvik / Harstad-Narvik (EVE/ENEV),Tromso / Tromso (TOS/ENTC),15:30:00,16:05:00,00:35:00,Wideroe (WF/WIF),Bombardier Dash 8-200 (DH8B),LN-WSA,9A,1,1,1,845,2989,832,608
+2014-07-07,WF847,Tromso / Tromso (TOS/ENTC),Andoya / Andoya (ANX/ENAN),17:05:00,17:35:00,00:30:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIT,7A,1,1,1,2989,135,832,607
+2014-07-07,WF847,Andoya / Andoya (ANX/ENAN),Bodo / Bodo (BOO/ENBO),17:50:00,18:35:00,00:45:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIT,7A,1,1,1,135,377,832,607
+2014-07-08,WF711,Bodo / Bodo (BOO/ENBO),Bronnoysund / Bronnoysund (BNN/ENBN),08:50:00,09:35:00,00:45:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIT,10D,1,1,1,377,364,832,607
+2014-07-08,WF711,Bronnoysund / Bronnoysund (BNN/ENBN),Trondheim / Vaernes (TRD/ENVA),09:50:00,10:35:00,00:45:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIT,10D,1,1,1,364,3003,832,607
+2014-07-08,WF751,Trondheim / Vaernes (TRD/ENVA),Mosjoen / Mosjoen-Kjaerstad (MJF/ENMS),11:25:00,12:15:00,00:50:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIT,0C,1,1,1,3003,1841,832,607
+2014-07-08,WF751,Mosjoen / Mosjoen-Kjaerstad (MJF/ENMS),Trondheim / Vaernes (TRD/ENVA),12:35:00,13:25:00,00:50:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIT,0C,1,1,1,1841,3003,832,607
+2014-07-08,WF742,Trondheim / Vaernes (TRD/ENVA),Namsos / Namsos (OSY/ENNM),14:15:00,14:45:00,00:30:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WII,8A,1,1,1,3003,2225,832,607
+2014-07-08,WF555,Trondheim / Vaernes (TRD/ENVA),Kristiansund / Kvernberget (KSU/ENKB),17:05:00,17:45:00,00:40:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WII,8A,1,1,1,3003,1509,832,607
+2014-07-08,WF577,Kristiansund / Kvernberget (KSU/ENKB),Bergen / Flesland (BGO/ENBR),20:40:00,21:45:00,01:05:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFP,11A,1,1,1,1509,289,832,609
+2014-07-08,WF599,Bergen / Flesland (BGO/ENBR),Kristiansand / Kjevik (KRS/ENCN),22:10:00,23:05:00,00:55:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFP,11A,1,1,1,289,1494,832,609
+2014-07-08,WF742,Namsos / Namsos (OSY/ENNM),Rorvik / Rorvik (RVK/ENRM),15:15:00,15:35:00,00:20:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WII,8A,1,1,1,2225,4709,832,607
+2014-07-08,WF742,Rorvik / Rorvik (RVK/ENRM),Trondheim / Vaernes (TRD/ENVA),15:50:00,16:25:00,00:35:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WII,8D,1,1,1,4709,3003,832,607
+2014-07-09,WF582,Kristiansand / Kjevik (KRS/ENCN),Bergen / Flesland (BGO/ENBR),07:15:00,08:10:00,00:55:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDE,20A,1,1,1,1494,289,832,610
+2014-07-09,WF148,Bergen / Flesland (BGO/ENBR),Sogndal / Haukaasen (SOG/ENSG),09:55:00,10:25:00,00:30:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIE,9A,1,1,1,289,2739,832,607
+2014-07-09,WF148,Sogndal / Haukaasen (SOG/ENSG),Orsta-Volda / Hovden (HOV/ENOV),10:45:00,11:15:00,00:30:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIE,9A,1,1,1,2739,1166,832,607
+2014-07-09,WF148,Orsta-Volda / Hovden (HOV/ENOV),Oslo / Gardermoen (OSL/ENGM),11:30:00,12:30:00,01:00:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIE,9A,1,1,1,1166,2219,832,607
+2014-07-09,WF193,Oslo / Gardermoen (OSL/ENGM),Forde / Bringeland (FDE/ENBL),17:40:00,18:45:00,01:05:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIV,10D,1,1,1,2219,3776,832,607
+2014-07-09,WF193,Forde / Bringeland (FDE/ENBL),Bergen / Flesland (BGO/ENBR),19:00:00,19:30:00,00:30:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIV,10D,1,1,1,3776,289,832,607
+2014-07-10,WF452,Bergen / Flesland (BGO/ENBR),Alesund / Vigra (AES/ENAL),16:15:00,17:00:00,00:45:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDJ,20D,1,1,1,289,53,832,610
+2014-07-10,WF453,Alesund / Vigra (AES/ENAL),Bergen / Flesland (BGO/ENBR),17:25:00,18:15:00,00:50:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDJ,20A,1,1,1,53,289,832,610
+2014-07-10,WF549,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),20:20:00,20:55:00,00:35:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-RDZ,20A,1,1,1,289,2809,832,610
+2014-07-11,WF542,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),06:40:00,07:15:00,00:35:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDI,20A,1,1,1,2809,289,832,610
+2014-07-11,WF526,Skien / Geiteryggen (SKE/ENSN),Bergen / Flesland (BGO/ENBR),08:55:00,09:50:00,00:55:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFS,0C,1,1,1,2694,289,832,609
+2014-07-11,WF568,Bergen / Flesland (BGO/ENBR),Kristiansund / Kvernberget (KSU/ENKB),11:05:00,12:05:00,01:00:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFH,12A,1,1,1,289,1509,832,609
+2014-07-11,WF471,Kristiansund / Kvernberget (KSU/ENKB),Stavanger / Sola (SVG/ENZV),13:05:00,14:30:00,01:25:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFU,11A,1,1,1,1509,2809,832,609
+2014-07-11,WF529,Bergen / Flesland (BGO/ENBR),Skien / Geiteryggen (SKE/ENSN),07:45:00,08:35:00,00:50:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFS,12A,1,1,1,289,2694,832,609
+2014-07-26,DY1764,Stavanger / Sola (SVG/ENZV),Malaga / Costa Del Sol (AGP/LEMG),13:55:00,17:40:00,03:45:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NOX,30A,1,1,1,2809,66,552,231
+2014-08-09,SK4682,Malaga / Costa Del Sol (AGP/LEMG),Stavanger / Sola (SVG/ENZV),22:00:00,01:40:00,03:40:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-TUI,11A,1,1,1,66,2809,677,230
+2014-10-02,BA747,Stavanger / Sola (SVG/ENZV),London / Heathrow (LHR/EGLL),20:30:00,21:20:00,01:50:00,British Airways (BA/BAW),Airbus A319-100 (A319),G-EUPH,7F,1,1,1,2809,1618,113,2073
+2014-10-03,BA175,London / Heathrow (LHR/EGLL),New York / John F Kennedy (JFK/KJFK),09:55:00,12:25:00,07:30:00,British Airways (BA/BAW),Boeing 747-400 (B744),G-CIVF,47K,1,1,1,1618,1328,113,237
+2014-10-08,BA184,Newark / Liberty International (EWR/KEWR),London / Heathrow (LHR/EGLL),18:25:00,06:20:00,06:55:00,British Airways (BA/BAW),Boeing 777-200 (B772),G-ZZZC,25A,1,1,1,851,1618,113,246
+2014-10-09,BA744,London / Heathrow (LHR/EGLL),Stavanger / Sola (SVG/ENZV),08:30:00,11:15:00,01:45:00,British Airways (BA/BAW),Airbus A319-100 (A319),G-EUPA,7F,1,1,1,1618,2809,113,2073
+2010-07-08,LH876,Frankfurt am Main / Frankfurt (FRA/EDDF),Stavanger / Sola (SVG/ENZV),16:05:00,18:00:00,01:55:00,Lufthansa (LH/DLH),Boeing 737-500 (B735),,,1,1,1,919,2809,239,228
+2012-06-21,SK4629,Stavanger / Sola (SVG/ENZV),London / Heathrow (LHR/EGLL),10:05:00,11:05:00,02:00:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),,,1,1,1,2809,1618,677,230
+2012-04-07,KL1264,Nice / Nice Cote D'Azur (NCE/LFMN),Amsterdam / Schiphol (AMS/EHAM),12:35:00,14:30:00,01:55:00,KLM Royal Dutch Airlines (KL/KLM),Embraer ERJ-190 (E190),,,1,1,1,2027,122,440,655
+2012-04-07,KL1203,Amsterdam / Schiphol (AMS/EHAM),Stavanger / Sola (SVG/ENZV),15:20:00,16:50:00,01:30:00,KLM Royal Dutch Airlines (KL/KLM),Boeing 737-400 (B734),,,1,1,1,122,2809,440,227
+2010-03-27,SK4154,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),08:05:00,08:40:00,00:35:00,Scandinavian Airlines (SK/SAS),Boeing 737-500 (B735),,,1,4,1,2809,289,677,228
+2010-03-27,SK2865,Bergen / Flesland (BGO/ENBR),Copenhagen / Kastrup (CPH/EKCH),09:55:00,11:15:00,01:20:00,Scandinavian Airlines (SK/SAS),McDonnell Douglas MD-82 (MD82),,,1,4,1,289,606,677,1186
+2010-03-27,LH825,Copenhagen / Kastrup (CPH/EKCH),Frankfurt am Main / Frankfurt (FRA/EDDF),14:25:00,16:15:00,01:50:00,Lufthansa (LH/DLH),Airbus A321-200 (A321),,,1,4,1,606,919,239,2076
+2010-04-03,LH1061,Nice / Nice Cote D'Azur (NCE/LFMN),Frankfurt am Main / Frankfurt (FRA/EDDF),14:50:00,16:30:00,01:40:00,Lufthansa (LH/DLH),Airbus A321-200 (A321),,,1,1,1,2027,919,239,2076
+2010-03-27,LH1018,Frankfurt am Main / Frankfurt (FRA/EDDF),Nice / Nice Cote D'Azur (NCE/LFMN),22:10:00,23:45:00,01:35:00,Lufthansa (LH/DLH),Airbus A321-200 (A321),,,1,4,1,919,2027,239,2076
+2010-04-03,LH878,Frankfurt am Main / Frankfurt (FRA/EDDF),Stavanger / Sola (SVG/ENZV),21:45:00,23:35:00,01:50:00,Lufthansa (LH/DLH),Boeing 737-500 (B735),,,1,1,1,919,2809,239,228
+2011-04-16,KL1196,Stavanger / Sola (SVG/ENZV),Amsterdam / Schiphol (AMS/EHAM),06:35:00,08:05:00,01:30:00,KLM Royal Dutch Airlines (KL/KLM),Boeing 737-700 (B737),,,1,1,1,2809,122,440,230
+2011-04-16,KL1263,Amsterdam / Schiphol (AMS/EHAM),Nice / Nice Cote D'Azur (NCE/LFMN),09:45:00,11:40:00,01:55:00,KLM Royal Dutch Airlines (KL/KLM),Fokker 70 (F70),,,1,1,1,122,2027,440,735
+2009-06-19,LH879,Stavanger / Sola (SVG/ENZV),Frankfurt am Main / Frankfurt (FRA/EDDF),06:40:00,08:45:00,02:05:00,Lufthansa (LH/DLH),Boeing 737-500 (B735),,,1,1,1,2809,919,239,228
+2009-06-19,LH1282,Frankfurt am Main / Frankfurt (FRA/EDDF),Athens / Eleftherios Venizelos (ATH/LGAV),13:45:00,17:30:00,02:45:00,Lufthansa (LH/DLH),Airbus A300B4 (A30B),,,1,1,1,919,3583,239,2062
+2009-06-20,OA66,Athens / Eleftherios Venizelos (ATH/LGAV),Paros / Paros (PAS/LGPA),15:55:00,16:40:00,00:45:00,Olympic Air (OA/OAL),Bombardier Dash 8-100 (DH8A),,4A,1,1,1,3583,2259,578,607
+2009-07-11,OA6205,Rhodes / Diagoras (RHO/LGRP),Athens / Eleftherios Venizelos (ATH/LGAV),11:15:00,12:20:00,01:05:00,Olympic Air (OA/OAL),ATR 72-200 (AT72),,,1,1,1,2517,3583,578,153
+2009-07-11,LH1279,Athens / Eleftherios Venizelos (ATH/LGAV),Frankfurt am Main / Frankfurt (FRA/EDDF),14:25:00,16:35:00,03:10:00,Lufthansa (LH/DLH),Airbus A321-200 (A321),,,1,1,1,3583,919,239,2076
+2009-07-11,LH876,Frankfurt am Main / Frankfurt (FRA/EDDF),Stavanger / Sola (SVG/ENZV),21:15:00,23:10:00,01:55:00,Lufthansa (LH/DLH),Boeing 737-500 (B735),,,1,1,1,919,2809,239,228
+2009-04-04,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:00:00,07:15:00,01:15:00,Scandinavian Airlines (SK/SAS),McDonnell Douglas MD-82 (MD82),,,1,1,1,2809,606,677,1186
+2009-04-04,SK793,Copenhagen / Kastrup (CPH/EKCH),Nice / Nice Cote D'Azur (NCE/LFMN),09:30:00,11:55:00,02:25:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),,,1,1,1,606,2027,677,2076
+2009-04-11,SK794,Nice / Nice Cote D'Azur (NCE/LFMN),Copenhagen / Kastrup (CPH/EKCH),17:05:00,19:25:00,02:20:00,Scandinavian Airlines (SK/SAS),Airbus A319-100 (A319),,,1,1,1,2027,606,677,2073
+2009-04-11,SK1876,Copenhagen / Kastrup (CPH/EKCH),Stavanger / Sola (SVG/ENZV),20:35:00,21:50:00,01:15:00,Scandinavian Airlines (SK/SAS),Airbus A319-100 (A319),,,1,1,1,606,2809,677,2073
+2014-10-10,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:00:00,07:15:00,01:15:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAT,8A,1,1,1,2809,606,677,2059
+2014-10-10,SK1587,Copenhagen / Kastrup (CPH/EKCH),Luxembourg / Luxembourg (LUX/ELLX),08:00:00,09:35:00,01:35:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-200 (CRJ2),OY-RJL,11F,1,1,1,606,1716,677,529
+2014-10-10,HR331,Luxembourg / Luxembourg (LUX/ELLX),Dusseldorf / Dusseldorf International (DUS/EDDL),15:45:00,16:30:00,00:45:00,Hahn Air Line (HR/HHN),Cessna 560 Citation 5 (C560),D-CHRB,1F,1,5,1,1716,763,353,405
+2014-10-10,SK628,Dusseldorf / Dusseldorf International (DUS/EDDL),Copenhagen / Kastrup (CPH/EKCH),18:45:00,20:05:00,01:20:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),OY-KFK,19F,1,1,1,763,606,677,531
+2014-10-10,SK4876,Copenhagen / Kastrup (CPH/EKCH),Stavanger / Sola (SVG/ENZV),22:45:00,23:55:00,01:10:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RPJ,9F,1,1,1,606,2809,677,230
+2014-11-11,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:00:00,07:15:00,01:15:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),OY-KBF,20A,1,1,1,2809,606,677,2076
+2014-11-11,SK2551,Copenhagen / Kastrup (CPH/EKCH),Amsterdam / Schiphol (AMS/EHAM),08:15:00,09:40:00,01:25:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAL,11F,1,1,1,606,122,677,2059
+2014-11-11,SK4051,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),21:45:00,22:40:00,00:55:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RRD,9A,1,1,1,2219,2809,677,229
+2014-11-11,SK828,Amsterdam / Schiphol (AMS/EHAM),Oslo / Gardermoen (OSL/ENGM),19:05:00,20:50:00,01:45:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RRD,14A,1,1,1,122,2219,677,229
+2015-03-27,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:10:00,07:03:00,00:53:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),OY-KBF,12A,1,1,1,2809,606,677,2076
+2015-03-27,SK1685,Copenhagen / Kastrup (CPH/EKCH),Milan / Malpensa (MXP/LIMC),08:38:00,10:19:00,01:41:00,Scandinavian Airlines (SK/SAS),Airbus A319-100 (A319),OY-KBR,10F,1,1,1,606,1983,677,2073
+2015-04-03,SK1686,Milan / Malpensa (MXP/LIMC),Copenhagen / Kastrup (CPH/EKCH),11:35:00,13:18:00,01:43:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAN,12A,1,1,1,1983,606,677,2059
+2014-11-11,KL9899,Amsterdam / Schiphol (AMS/EHAM),Amsterdam / Schiphol (AMS/EHAM),15:30:00,17:00:00,01:30:00,KLM Royal Dutch Airlines (KL/KLM),McDonnell Douglas MD-11 (MD11),PH-KCD,26D,3,1,1,122,122,440,1180
+2015-02-16,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:00:00,07:15:00,01:15:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAO,15A,1,1,1,2809,606,677,2059
+2015-02-16,SK793,Copenhagen / Kastrup (CPH/EKCH),Nice / Nice Cote D'Azur (NCE/LFMN),09:45:00,12:05:00,02:20:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),OY-KBB,20F,1,1,1,606,2027,677,2076
+2015-02-22,SK794,Nice / Nice Cote D'Azur (NCE/LFMN),Copenhagen / Kastrup (CPH/EKCH),14:15:00,16:35:00,02:20:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),OY-KBL,8E,2,4,1,2027,606,677,2076
+2015-02-22,SK1876,Copenhagen / Kastrup (CPH/EKCH),Stavanger / Sola (SVG/ENZV),21:00:00,22:15:00,01:15:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),OY-KBH,2A,1,4,1,606,2809,677,2076
+2015-06-24,BA745,Stavanger / Sola (SVG/ENZV),London / Heathrow (LHR/EGLL),11:59:00,12:42:00,01:43:00,British Airways (BA/BAW),Airbus A319-100 (A319),G-EUOG,4F,1,1,1,2809,1618,113,2073
+2015-06-24,CX238,London / Heathrow (LHR/EGLL),Hong Kong / Hong Kong International (HKG/VHHH),17:44:00,12:10:00,10:26:00,Cathay Pacific (CX/CPA),Boeing 777-300ER (B77W),B-KQO,55A,1,1,1,1618,1135,199,2023
+2015-06-25,CX725,Hong Kong / Hong Kong International (HKG/VHHH),Kuala Lumpur / Kuala Lumpur International (KUL/WMKK),13:36:00,16:48:00,03:12:00,Cathay Pacific (CX/CPA),Airbus A330-300 (A333),B-HLN,54A,1,1,1,1135,1527,199,31
+2015-07-11,CX724,Kuala Lumpur / Kuala Lumpur International (KUL/WMKK),Hong Kong / Hong Kong International (HKG/VHHH),17:50:00,21:14:00,03:24:00,Cathay Pacific (CX/CPA),Airbus A330-300 (A333),B-LBH,60A,1,1,1,1527,1135,199,31
+2015-07-12,CX237,Hong Kong / Hong Kong International (HKG/VHHH),London / Heathrow (LHR/EGLL),00:42:00,06:05:00,13:23:00,Cathay Pacific (CX/CPA),Boeing 777-300ER (B77W),B-KQN,52K,1,1,1,1135,1618,199,2023
+2015-07-12,BA744,London / Heathrow (LHR/EGLL),Stavanger / Sola (SVG/ENZV),08:49:00,11:09:00,01:20:00,British Airways (BA/BAW),Airbus A319-100 (A319),G-EUOF,12F,1,1,1,1618,2809,113,2073
+2015-03-13,SK1879,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),18:15:00,19:30:00,01:15:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),LN-RNL,7F,1,1,1,2809,606,677,531
+2015-03-13,SK1726,Copenhagen / Kastrup (CPH/EKCH),Helsinki / Vantaa (HEL/EFHK),20:05:00,22:45:00,01:40:00,Blue1 (KF/BLF),Boeing 717-200 (B712),OH-BLQ,5F,1,1,1,606,1110,134,220
+2015-03-15,SK2705,Helsinki / Vantaa (HEL/EFHK),Oslo / Gardermoen (OSL/ENGM),19:25:00,20:00:00,01:35:00,Blue1 (KF/BLF),Boeing 717-200 (B712),OH-BLP,10A,1,1,1,1110,2219,134,220
+2015-03-15,SK4051,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),21:45:00,22:40:00,00:55:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-TUD,11F,1,1,1,2219,2809,677,230
+2015-04-03,SK458,Copenhagen / Kastrup (CPH/EKCH),Oslo / Gardermoen (OSL/ENGM),14:36:00,15:31:00,00:55:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAN,17F,1,1,1,606,2219,677,2059
+2015-04-03,SK4039,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),16:41:00,17:18:00,00:37:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RPT,12A,1,1,1,2219,2809,677,229
+2015-06-28,AK828,Kuala Lumpur / Kuala Lumpur International (KUL/WMKK),Phuket / Phuket (HKT/VTSP),07:31:00,07:40:00,01:09:00,Air Asia (AK/AXM),Airbus A320-200 (A320),9M-AJH,25A,1,1,1,1527,1137,103,2059
+2015-07-05,DD7503,Phuket / Phuket (HKT/VTSP),Bangkok / Don Mueang International (DMK/VTBD),11:34:00,12:42:00,01:08:00,Nok Air (DD/NOK),Boeing 737-800 (B738),HS-DBL,52A,1,1,1,1137,3565,1244,231
+2015-07-11,AK867,Krabi / Krabi (KBV/VTSG),Kuala Lumpur / Kuala Lumpur International (KUL/WMKK),09:00:00,10:17:00,01:17:00,Air Asia (AK/AXM),Airbus A320-200 (A320),9M-AQP,6F,1,1,1,3562,1527,103,2059
+2016-02-13,SK1875,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),10:30:00,11:20:00,00:50:00,Scandinavian Airlines (SK/SAS),Airbus A319-100 (A319),OY-KBR,9A,1,1,1,2809,606,677,2073
+2016-02-13,SK1420,Copenhagen / Kastrup (CPH/EKCH),Stockholm / Arlanda (ARN/ESSA),12:38:00,13:33:00,00:55:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAN,5F,1,1,1,606,3622,677,2059
+2016-02-13,SK963,Stockholm / Arlanda (ARN/ESSA),Hong Kong / Hong Kong International (HKG/VHHH),14:07:00,07:04:00,09:57:00,Scandinavian Airlines (SK/SAS),Airbus A330-300 (A333),LN-RKR,31A,1,1,1,3622,1135,677,31
+2016-02-20,SK964,Hong Kong / Hong Kong International (HKG/VHHH),Stockholm / Arlanda (ARN/ESSA),09:38:00,13:54:00,11:16:00,Scandinavian Airlines (SK/SAS),Airbus A330-300 (A333),LN-RKR,46A,1,1,1,1135,3622,677,31
+2016-02-20,SK885,Stockholm / Arlanda (ARN/ESSA),Oslo / Gardermoen (OSL/ENGM),17:59:00,18:41:00,00:42:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RRC,16F,1,1,1,3622,2219,677,229
+2016-02-20,SK4055,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),21:49:00,22:26:00,00:37:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RRA,11A,1,1,1,2219,2809,677,230
+2016-03-18,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:16:00,07:07:00,00:51:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),OY-KBH,5A,1,1,1,2809,606,677,2076
+2016-03-18,SK613,Copenhagen / Kastrup (CPH/EKCH),Geneva / Cointrin (GVA/LSGG),08:47:00,10:28:00,01:41:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAU,19F,1,1,1,606,1065,677,2059
+2016-03-25,SK1610,Geneva / Cointrin (GVA/LSGG),Copenhagen / Kastrup (CPH/EKCH),11:25:00,13:05:00,01:40:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAY,12F,1,1,1,1065,606,677,2059
+2015-07-08,SL8578,Bangkok / Don Mueang International (DMK/VTBD),Bangkok / Don Mueang International (DMK/VTBD),16:40:00,17:06:00,00:26:00,Lion Airlines (JT/LNI),Boeing 737-900ER (B739),HS-LTM,32D,3,1,1,3565,3565,480,2069
+2015-07-08,SL8578,Bangkok / Don Mueang International (DMK/VTBD),Krabi / Krabi (KBV/VTSG),18:18:00,19:23:00,01:05:00,Lion Airlines (JT/LNI),Boeing 737-900ER (B739),HS-LTM,32D,3,1,1,3565,3562,480,2069
+2015-10-05,SK1877,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),16:01:00,16:55:00,00:54:00,Scandinavian Airlines (SK/SAS),Airbus A319-100 (A319),OY-KBP,20F,1,1,1,2809,606,677,2073
+2015-10-05,SK779,Copenhagen / Kastrup (CPH/EKCH),Budapest / Franz Liszt International (BUD/LHBP),20:08:00,21:28:00,01:20:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),OY-KFI,9F,1,1,1,606,429,677,531
+2015-10-08,SK780,Budapest / Franz Liszt International (BUD/LHBP),Copenhagen / Kastrup (CPH/EKCH),12:43:00,14:10:00,01:27:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),LN-RKI,10F,1,1,1,429,606,677,2076
+2015-10-08,SK1874,Copenhagen / Kastrup (CPH/EKCH),Stavanger / Sola (SVG/ENZV),17:15:00,18:13:00,00:58:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),OY-KFC,8F,1,1,1,606,2809,677,531
+2015-09-14,SK4010,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),08:33:00,09:08:00,00:35:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-TUL,25F,1,1,1,2809,2219,677,230
+2015-09-14,SK4787,Oslo / Gardermoen (OSL/ENGM),Keflavik / Keflavik (KEF/BIKF),10:20:00,10:58:00,01:38:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RRS,24F,1,1,1,2219,1400,677,231
+2015-09-18,SK4788,Keflavik / Keflavik (KEF/BIKF),Oslo / Gardermoen (OSL/ENGM),11:38:00,15:50:00,03:12:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RCY,11A,1,1,1,1400,2219,677,231
+2015-09-18,SK4043,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),17:22:00,18:01:00,00:39:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RRN,11A,1,1,1,2219,2809,677,230
+2016-01-22,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),08:32:00,09:20:00,00:48:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),OY-KBF,24B,2,1,1,2809,606,677,2076
+2016-01-25,SK1686,Milan / Malpensa (MXP/LIMC),Copenhagen / Kastrup (CPH/EKCH),11:27:00,13:11:00,01:44:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAY,12A,1,1,1,1983,606,677,2059
+2016-01-25,SK1872,Copenhagen / Kastrup (CPH/EKCH),Stavanger / Sola (SVG/ENZV),14:33:00,15:27:00,00:54:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAY,12F,1,1,1,606,2809,677,2059
+2016-03-25,SK458,Copenhagen / Kastrup (CPH/EKCH),Oslo / Gardermoen (OSL/ENGM),15:05:00,15:55:00,00:50:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAO,12E,2,1,1,606,2219,677,2059
+2016-03-25,SK4039,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),16:54:00,17:31:00,00:37:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RRS,07F,1,1,1,2219,2809,677,231
+2016-01-22,LH825,Copenhagen / Kastrup (CPH/EKCH),Frankfurt am Main / Frankfurt (FRA/EDDF),10:36:00,11:40:00,01:04:00,Lufthansa (LH/DLH),Airbus A319-100 (A319),D-AILM,19A,1,1,1,606,919,239,2073
+2016-01-22,LH252,Frankfurt am Main / Frankfurt (FRA/EDDF),Milan / Malpensa (MXP/LIMC),13:31:00,14:16:00,00:45:00,Lufthansa (LH/DLH),Airbus A319-100 (A319),D-AIBJ,19F,1,1,1,919,1983,239,2073
+2016-06-21,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:13:00,07:10:00,00:57:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),OY-KBE,10F,1,1,1,2809,606,677,2076
+2016-06-21,AC883,Copenhagen / Kastrup (CPH/EKCH),Toronto / Pearson (YYZ/CYYZ),13:00:00,15:39:00,07:39:00,Air Canada (AC/ACA),Boeing 787-9 (B789),C-FNOH,19K,1,1,1,606,3500,13,2088
+2016-07-05,AC856,Toronto / Pearson (YYZ/CYYZ),London / Heathrow (LHR/EGLL),19:01:00,06:23:00,06:22:00,Air Canada (AC/ACA),Boeing 777-300ER (B77W),C-FIUW,20F,2,1,1,3500,1618,13,2023
+2016-07-06,SK4630,London / Heathrow (LHR/EGLL),Stavanger / Sola (SVG/ENZV),12:24:00,14:51:00,01:27:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),SE-DOR,7F,1,1,1,1618,2809,677,229
+2016-09-26,DY527,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),09:03:00,09:40:00,00:37:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NHG,18F,1,1,4,2809,2219,552,231
+2016-09-26,DY748,Oslo / Gardermoen (OSL/ENGM),Trondheim / Vaernes (TRD/ENVA),10:49:00,11:26:00,00:37:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGU,2A,1,1,4,2219,3003,552,231
+2016-10-07,SK379,Trondheim / Vaernes (TRD/ENVA),Oslo / Gardermoen (OSL/ENGM),19:35:00,20:21:00,00:46:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),SE-RJR,2F,1,4,4,3003,2219,677,230
+2016-10-07,SK4057,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),21:30:00,22:04:00,00:34:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),SE-RJR,2F,1,4,4,2219,2809,677,230
+2016-10-09,SK4184,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),17:20:00,17:44:00,00:24:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RPE,2F,1,4,4,2809,289,677,229
+2016-10-09,SK4184,Bergen / Flesland (BGO/ENBR),Trondheim / Vaernes (TRD/ENVA),18:20:00,19:05:00,00:45:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RPE,2F,1,4,4,289,3003,677,229
+2017-02-26,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:15:00,07:05:00,00:50:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAL,12A,1,1,1,2809,606,677,2059
+2017-02-26,SK793,Copenhagen / Kastrup (CPH/EKCH),Nice / Nice Cote D'Azur (NCE/LFMN),09:40:00,12:09:00,02:29:00,Scandinavian Airlines (SK/SAS),Airbus A319-100 (A319),OY-KBP,10F,1,1,1,606,2027,677,2073
+2017-03-06,SK794,Nice / Nice Cote D'Azur (NCE/LFMN),Copenhagen / Kastrup (CPH/EKCH),13:08:00,15:10:00,02:02:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RRY,18F,1,1,1,2027,606,677,229
+2017-03-06,SK1874,Copenhagen / Kastrup (CPH/EKCH),Stavanger / Sola (SVG/ENZV),16:42:00,17:34:00,00:52:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),OY-KFD,6A,1,1,1,606,2809,677,531
+2016-11-02,SK4175,Trondheim / Vaernes (TRD/ENVA),Bergen / Flesland (BGO/ENBR),16:35:00,17:18:00,00:43:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-TUL,16F,1,1,4,3003,289,677,230
+2016-11-02,SK4175,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),17:51:00,18:16:00,00:25:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-TUL,16F,1,1,4,289,2809,677,230
+2016-11-06,SK4172,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),14:48:00,15:12:00,00:24:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RRX,16A,1,1,4,2809,289,677,229
+2016-11-06,SK4172,Bergen / Flesland (BGO/ENBR),Trondheim / Vaernes (TRD/ENVA),15:47:00,16:35:00,00:48:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RRX,16A,1,1,4,289,3003,677,229
+2016-12-21,DY773,Trondheim / Vaernes (TRD/ENVA),Oslo / Gardermoen (OSL/ENGM),19:24:00,20:04:00,00:40:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGZ,8C,3,1,4,3003,2219,552,231
+2016-12-21,DY548,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),21:32:00,22:13:00,00:41:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGO,30A,1,1,4,2219,2809,552,231
+2017-01-02,DY537,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),16:02:00,16:42:00,00:40:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NIC,9C,3,1,4,2809,2219,552,231
+2017-01-02,DY764,Oslo / Gardermoen (OSL/ENGM),Trondheim / Vaernes (TRD/ENVA),17:52:00,18:40:00,00:48:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGP,23A,1,1,4,2219,3003,552,231
+2017-01-11,SK4485,Trondheim / Vaernes (TRD/ENVA),Stavanger / Sola (SVG/ENZV),17:49:00,18:48:00,00:59:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPH,20A,1,1,4,3003,2809,677,531
+2017-01-15,SK4184,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),16:26:00,16:52:00,00:26:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPA,17A,1,1,4,2809,289,677,531
+2017-01-15,SK4184,Bergen / Flesland (BGO/ENBR),Trondheim / Vaernes (TRD/ENVA),17:29:00,18:26:00,00:57:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPA,17A,1,1,4,289,3003,677,531
+2017-01-19,SK4483,Trondheim / Vaernes (TRD/ENVA),Stavanger / Sola (SVG/ENZV),15:37:00,16:33:00,00:56:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPH,17A,1,1,4,3003,2809,677,531
+2017-01-25,DY133,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),14:59:00,15:30:00,00:31:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGH,8F,1,1,4,2809,289,552,231
+2017-01-25,DY170,Bergen / Flesland (BGO/ENBR),Trondheim / Vaernes (TRD/ENVA),17:47:00,18:32:00,00:45:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NOT,25C,3,1,4,289,3003,552,231
+2017-02-15,DY761,Trondheim / Vaernes (TRD/ENVA),Oslo / Gardermoen (OSL/ENGM),15:38:00,16:15:00,00:37:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGE,26F,1,1,4,3003,2219,552,231
+2017-02-17,DY756,Oslo / Gardermoen (OSL/ENGM),Trondheim / Vaernes (TRD/ENVA),15:03:00,15:45:00,00:42:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-DYC,27F,1,1,4,2219,3003,552,231
+2017-02-24,DY773,Trondheim / Vaernes (TRD/ENVA),Oslo / Gardermoen (OSL/ENGM),20:10:00,20:52:00,00:42:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NHB,1A,1,1,4,3003,2219,552,231
+2017-02-24,DY550,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),23:54:00,00:37:00,00:43:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGS,1F,1,1,4,2219,2809,552,231
+2017-03-10,DY527,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),09:06:00,09:47:00,00:41:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGK,31F,1,1,4,2809,2219,552,231
+2017-03-10,DY752,Oslo / Gardermoen (OSL/ENGM),Trondheim / Vaernes (TRD/ENVA),11:05:00,11:42:00,00:37:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGG,28F,1,1,4,2219,3003,552,231
+2017-04-01,SK365,Trondheim / Vaernes (TRD/ENVA),Oslo / Gardermoen (OSL/ENGM),15:55:00,16:35:00,00:40:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RRD,16A,1,1,4,3003,2219,677,229
+2017-04-01,SK4043,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),17:30:00,18:11:00,00:41:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RRX,17A,1,1,4,2219,2809,677,229
+2017-04-09,SK4026,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),15:45:00,16:22:00,00:37:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RPJ,16A,1,1,4,2809,2219,677,230
+2017-04-09,SK366,Oslo / Gardermoen (OSL/ENGM),Trondheim / Vaernes (TRD/ENVA),18:10:00,18:47:00,00:37:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RPK,11F,1,1,4,2219,3003,677,230
+2017-05-25,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:05:00,06:52:00,00:47:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),OY-KBF,10D,3,1,1,2809,606,677,2076
+2017-05-25,SK953,Copenhagen / Kastrup (CPH/EKCH),Miami / Miami International (MIA/KMIA),09:55:00,14:13:00,10:18:00,Scandinavian Airlines (SK/SAS),Airbus A330-300 (A333),LN-RKN,7A,1,2,1,606,1831,677,31
+2017-05-27,SK956,Miami / Miami International (MIA/KMIA),Oslo / Gardermoen (OSL/ENGM),17:29:00,07:52:00,08:23:00,Scandinavian Airlines (SK/SAS),Airbus A330-300 (A333),LN-RKM,23F,3,4,1,1831,2219,677,31
+2017-05-28,SK4023,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),11:49:00,12:35:00,00:46:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RPA,1D,3,4,1,2219,2809,677,229
+2017-04-23,DY761,Trondheim / Vaernes (TRD/ENVA),Oslo / Gardermoen (OSL/ENGM),15:05:00,15:48:00,00:43:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGV,1F,1,1,4,3003,2219,552,231
+2017-05-21,DY755,Trondheim / Vaernes (TRD/ENVA),Oslo / Gardermoen (OSL/ENGM),16:52:00,17:34:00,00:42:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGT,1F,1,1,4,3003,2219,552,231
+2017-05-21,DY544,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),18:12:00,19:02:00,00:50:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-DYV,1F,1,1,4,2219,2809,552,231
+2017-06-01,DY543,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),17:42:00,18:21:00,00:39:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGD,21F,1,1,4,2809,2219,552,231
+2017-06-01,DY768,Oslo / Gardermoen (OSL/ENGM),Trondheim / Vaernes (TRD/ENVA),19:22:00,20:03:00,00:41:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGU,20A,1,1,4,2219,3003,552,231
+2017-04-26,DY528,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),11:35:00,12:09:00,00:34:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGS,5F,1,1,4,2219,2809,552,231
+2017-05-01,DY521,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),06:28:00,07:08:00,00:40:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGO,1F,1,1,4,2809,2219,552,231
+2017-05-01,DY744,Oslo / Gardermoen (OSL/ENGM),Trondheim / Vaernes (TRD/ENVA),08:54:00,09:36:00,00:42:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-DYZ,3F,1,1,4,2219,3003,552,231
+2017-06-12,SK4482,Stavanger / Sola (SVG/ENZV),Trondheim / Vaernes (TRD/ENVA),16:13:00,17:15:00,01:02:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPG,8F,1,1,4,2809,3003,677,531
+2017-08-03,SK4687,Stavanger / Sola (SVG/ENZV),Barcelona / El Prat (BCN/LEBL),15:39:00,18:24:00,02:45:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RRA,17A,1,1,1,2809,239,677,230
+2017-08-09,SK2586,Barcelona / El Prat (BCN/LEBL),Stockholm / Arlanda (ARN/ESSA),11:14:00,14:10:00,02:46:00,Scandinavian Airlines (SK/SAS),Airbus A320neo (A32N),LN-RGM,04A,1,1,1,239,3622,677,2114
+2017-08-09,SK867,Stockholm / Arlanda (ARN/ESSA),Oslo / Gardermoen (OSL/ENGM),14:59:00,15:43:00,00:44:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),SE-RER,06F,1,1,1,3622,2219,677,230
+2017-08-09,SK4043,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),17:37:00,18:13:00,00:36:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RNN,18F,1,1,1,2219,2809,677,230
+2017-06-06,SK373,Trondheim / Vaernes (TRD/ENVA),Oslo / Gardermoen (OSL/ENGM),18:01:00,18:46:00,00:45:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RCY,29D,3,1,4,3003,2219,677,231
+2017-06-06,SK4055,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),20:42:00,21:18:00,00:36:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RNO,19F,1,1,4,2219,2809,677,230
+2017-06-25,DY761,Trondheim / Vaernes (TRD/ENVA),Oslo / Gardermoen (OSL/ENGM),15:15:00,15:55:00,00:40:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGA,20F,1,1,4,3003,2219,552,231
+2017-06-25,DY542,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),17:55:00,18:31:00,00:36:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGT,6F,1,1,4,2219,2809,552,231
+2017-06-26,DY535,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),14:33:00,15:10:00,00:37:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-DYC,21F,1,1,4,2809,2219,552,231
+2017-06-26,DY760,Oslo / Gardermoen (OSL/ENGM),Trondheim / Vaernes (TRD/ENVA),16:48:00,17:26:00,00:38:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-DYA,28D,3,1,4,2219,3003,552,231
+2017-07-07,DY753,Trondheim / Vaernes (TRD/ENVA),Oslo / Gardermoen (OSL/ENGM),16:49:00,17:30:00,00:41:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGP,1F,3,1,4,3003,2219,552,231
+2017-07-07,DY548,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),21:45:00,22:21:00,00:36:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-DYG,20F,1,1,4,2219,2809,552,231
+2017-08-11,SK4170,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),12:29:00,12:56:00,00:27:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPG,16A,1,1,1,2809,289,677,531
+2017-10-20,SK4175,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),18:05:00,18:25:00,00:20:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RPE,11A,1,1,1,289,2809,677,229
+2017-10-22,SK4188,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),18:54:00,19:21:00,00:27:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RRD,11A,1,1,1,2809,289,677,229
+2017-12-19,SK4163,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),15:54:00,16:19:00,00:25:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPO,17A,1,1,1,289,2809,677,531
+2018-01-14,SK4188,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),19:50:00,20:18:00,00:28:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RPJ,15A,1,1,1,2809,289,677,230
+2018-01-10,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:04:00,07:07:00,01:03:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAU,12F,1,1,1,2809,606,677,2059
+2018-01-10,SK1685,Copenhagen / Kastrup (CPH/EKCH),Milan / Malpensa (MXP/LIMC),08:41:00,10:27:00,01:46:00,Scandinavian Airlines (SK/SAS),Airbus A320neo (A32N),LN-RGN,12F,1,1,1,606,1983,677,2114
+2018-01-14,SK4718,Milan / Malpensa (MXP/LIMC),Oslo / Gardermoen (OSL/ENGM),12:52:00,15:13:00,02:21:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-TUK,6F,1,1,1,1983,2219,677,230
+2018-01-14,SK4039,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),16:38:00,17:20:00,00:42:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RRX,05A,1,1,1,2219,2809,677,229
+2018-03-25,SK4018,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),09:24:00,10:02:00,00:38:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RNN,11D,3,1,1,2809,2219,677,230
+2018-03-25,SK4719,Oslo / Gardermoen (OSL/ENGM),Milan / Malpensa (MXP/LIMC),11:00:00,13:18:00,02:18:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RPK,10A,1,1,1,2219,1983,677,230
+2018-04-01,SK4718,Milan / Malpensa (MXP/LIMC),Oslo / Gardermoen (OSL/ENGM),14:26:00,16:48:00,02:22:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RRH,11D,3,1,1,1983,2219,677,231
+2018-04-01,SK4047,Oslo / Gardermoen (OSL/ENGM),Stavanger / Sola (SVG/ENZV),20:06:00,20:44:00,00:38:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RPL,15A,1,1,1,2219,2809,677,231
+2018-04-02,SK4186,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),17:53:00,18:14:00,00:21:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RPE,11A,1,1,1,2809,289,677,229
+2018-03-02,SK262,Bergen / Flesland (BGO/ENBR),Oslo / Gardermoen (OSL/ENGM),12:15:00,12:56:00,00:41:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-TUL,18A,1,1,1,289,2219,677,230
+2018-03-03,SK277,Oslo / Gardermoen (OSL/ENGM),Bergen / Flesland (BGO/ENBR),17:40:00,18:22:00,00:42:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),SE-REU,7F,1,1,1,2219,289,677,230
+2018-03-19,SK4175,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),18:12:00,18:33:00,00:21:00,Scandinavian Airlines (SK/SAS),Boeing 737-600 (B736),LN-RPF,16A,1,1,1,289,2809,677,229
+2018-06-15,SK4185,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),18:52:00,19:13:00,00:21:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-TUJ,11F,1,1,1,289,2809,677,230
+2018-08-20,SK7493,Bergen / Flesland (BGO/ENBR),Preveza / Aktion AB (PVK/LGPZ),17:00:00,21:24:00,03:24:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RRA,18F,1,1,1,289,2432,677,230
+2018-08-27,SK7494,Preveza / Aktion AB (PVK/LGPZ),Bergen / Flesland (BGO/ENBR),22:24:00,00:54:00,03:30:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RRB,17F,1,1,1,2432,289,677,230
+2018-07-29,DY135,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),16:03:00,16:29:00,00:26:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NHA,12D,3,1,1,2809,289,552,231
+2018-08-05,DY136,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),17:04:00,17:33:00,00:29:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGN,14A,1,1,1,289,2809,552,231
+2018-08-08,SK4196,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),21:42:00,22:06:00,00:24:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPS,17F,1,1,1,2809,289,677,531
+2019-02-24,SK1871,Stavanger / Sola (SVG/ENZV),Copenhagen / Kastrup (CPH/EKCH),06:02:00,06:52:00,00:50:00,Scandinavian Airlines (SK/SAS),Airbus A320-200 (A320),OY-KAR,16A,1,1,1,2809,606,677,2059
+2019-02-24,SK793,Copenhagen / Kastrup (CPH/EKCH),Nice / Nice Cote D'Azur (NCE/LFMN),08:46:00,10:38:00,01:52:00,Scandinavian Airlines (SK/SAS),Airbus A319-100 (A319),OY-KBT,14A,1,1,1,606,2027,677,2073
+2019-03-01,SK794,Nice / Nice Cote D'Azur (NCE/LFMN),Copenhagen / Kastrup (CPH/EKCH),13:07:00,15:17:00,02:10:00,Scandinavian Airlines (SK/SAS),Airbus A319-100 (A319),OY-KBP,12F,1,1,1,2027,606,677,2073
+2019-03-01,SK1874,Copenhagen / Kastrup (CPH/EKCH),Stavanger / Sola (SVG/ENZV),17:25:00,18:24:00,00:59:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPR,10F,1,1,1,606,2809,677,531
+2018-10-19,SK4175,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),18:02:00,18:24:00,00:22:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RPJ,11A,1,1,1,289,2809,677,230
+2018-10-23,SK4186,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),17:49:00,18:14:00,00:25:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RRM,18A,1,1,1,2809,289,677,230
+2018-12-18,DY138,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),17:57:00,18:23:00,00:26:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-DYZ,1A,1,1,1,289,2809,552,231
+2019-01-16,KL1196,Stavanger / Sola (SVG/ENZV),Amsterdam / Schiphol (AMS/EHAM),06:08:00,07:19:00,01:11:00,KLM Royal Dutch Airlines (KL/KLM),Boeing 737-700 (B737),PH-BGH,12F,1,1,1,2809,122,440,230
+2019-01-16,AZ121,Amsterdam / Schiphol (AMS/EHAM),Milan / Linate (LIN/LIML),12:04:00,13:21:00,01:17:00,Alitalia (AZ/AZA),Airbus A319-100 (A319),EI-IMC,16A,1,1,1,122,1627,105,2073
+2019-01-20,AZ112,Milan / Linate (LIN/LIML),Amsterdam / Schiphol (AMS/EHAM),17:11:00,18:37:00,01:26:00,Alitalia (AZ/AZA),Airbus A319-100 (A319),EI-IMN,11F,1,1,1,1627,122,105,2073
+2019-01-20,KL1205,Amsterdam / Schiphol (AMS/EHAM),Stavanger / Sola (SVG/ENZV),21:15:00,23:00:00,01:45:00,KLM Royal Dutch Airlines (KL/KLM),Boeing 737-800 (B738),PH-BXY,15E,2,1,1,122,2809,440,231
+2019-01-04,DY135,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),17:03:00,17:27:00,00:24:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGC,1F,1,1,1,2809,289,552,231
+2019-01-13,DY136,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),16:47:00,17:12:00,00:25:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGZ,1A,1,1,1,289,2809,552,231
+2019-01-21,DY135,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),16:55:00,17:20:00,00:25:00,Norwegian Air Shuttle (DY/NAX),Boeing 737-800 (B738),LN-NGN,14A,1,1,1,2809,289,552,231
+2019-02-23,SK4163,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),15:57:00,16:19:00,00:22:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPN,17A,1,1,1,289,2809,677,531
+2019-03-02,SK4164,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),12:31:00,13:01:00,00:30:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPW,17F,1,1,1,2809,289,677,531
+2019-04-12,WF545,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),15:17:00,15:41:00,00:24:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDF,18D,1,1,1,289,2809,832,610
+2019-04-22,WF544,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),13:14:00,13:40:00,00:26:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDI,8D,1,1,1,2809,289,832,610
+2019-06-16,D85537,Stavanger / Sola (SVG/ENZV),Barcelona / El Prat (BCN/LEBL),22:07:00,00:56:00,02:49:00,Norwegian Air International (D8/IBK),Boeing 737-800 (B738),EI-FVY,9F,1,4,1,2809,239,1644,231
+2019-06-23,D85536,Barcelona / El Prat (BCN/LEBL),Stavanger / Sola (SVG/ENZV),17:46:00,20:19:00,02:33:00,Norwegian Air International (D8/IBK),Boeing 737-800 (B738),EI-FVZ,15B,2,4,1,239,2809,1644,231
+2019-08-27,SK246,Bergen / Flesland (BGO/ENBR),Oslo / Gardermoen (OSL/ENGM),08:02:00,08:42:00,00:40:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RGA,16A,1,1,1,289,2219,677,231
+2019-08-27,SK4414,Oslo / Gardermoen (OSL/ENGM),Tromso / Tromso (TOS/ENTC),10:01:00,11:36:00,01:35:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RCN,17A,1,1,1,2219,2989,677,231
+2019-08-27,SK4414,Tromso / Tromso (TOS/ENTC),Svalbard / Longyear (LYR/ENSB),12:26:00,13:51:00,01:25:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RCN,17A,1,1,1,2989,1732,677,231
+2019-08-29,SK4497,Svalbard / Longyear (LYR/ENSB),Oslo / Gardermoen (OSL/ENGM),02:17:00,05:06:00,02:49:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RGH,7F,1,1,1,1732,2219,677,231
+2019-08-29,SK249,Oslo / Gardermoen (OSL/ENGM),Bergen / Flesland (BGO/ENBR),07:32:00,08:10:00,00:55:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RGD,25F,1,1,1,2219,289,677,231
+2019-07-12,WF544,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),12:58:00,13:27:00,00:29:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDF,3A,1,1,1,2809,289,832,610
+2019-07-12,WF626,Bergen / Flesland (BGO/ENBR),Tromso / Tromso (TOS/ENTC),14:17:00,16:33:00,02:16:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-RDY,1A,1,1,1,289,2989,832,610
+2019-06-09,WF547,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),20:43:00,21:09:00,00:26:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFP,8D,1,1,1,289,2809,832,609
+2019-07-14,WF855,Tromso / Tromso (TOS/ENTC),Stokmarknes / Skagen (SKN/ENSK),15:41:00,16:17:00,00:36:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIT,9D,1,1,1,2989,2697,832,607
+2019-07-14,WF857,Stokmarknes / Skagen (SKN/ENSK),Bodo / Bodo (BOO/ENBO),19:54:00,20:22:00,00:28:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIE,10A,1,1,1,2697,377,832,607
+2019-08-01,SK4170,Stavanger / Sola (SVG/ENZV),Bergen / Flesland (BGO/ENBR),12:21:00,12:50:00,00:29:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),EI-FPM,17F,1,1,1,2809,289,677,531
+2019-07-15,WF769,Bodo / Bodo (BOO/ENBO),Trondheim / Vaernes (TRD/ENVA),06:41:00,07:46:00,01:05:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIM,10A,1,1,1,377,3003,832,607
+2019-07-16,WF708,Trondheim / Vaernes (TRD/ENVA),Oslo / Gardermoen (OSL/ENGM),12:26:00,13:18:00,00:52:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFP,12C,3,1,1,3003,2219,832,609
+2019-07-17,WF153,Oslo / Gardermoen (OSL/ENGM),Sandane / Sandane (SDN/ENSD),16:22:00,17:22:00,01:00:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIV,9D,1,1,1,2219,2620,832,607
+2019-07-20,WF622,Bergen / Flesland (BGO/ENBR),Tromso / Tromso (TOS/ENTC),14:43:00,16:43:00,02:00:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-RDY,2D,1,1,1,289,2989,832,610
+2019-07-22,WF990,Tromso / Tromso (TOS/ENTC),Hasvik / Hasvik (HAA/ENHK),07:48:00,08:13:00,00:25:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIA,2D,1,1,1,2989,1087,832,607
+2019-07-22,WF990,Hasvik / Hasvik (HAA/ENHK),Hammerfest / Hammerfest (HFT/ENHF),08:35:00,08:49:00,00:14:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIA,2D,1,1,1,1087,1119,832,607
+2019-07-22,WF992,Hammerfest / Hammerfest (HFT/ENHF),Honningsvag / Valan (HVG/ENHV),11:10:00,11:33:00,00:23:00,Wideroe (WF/WIF),Bombardier Dash 8-200 (DH8B),LN-WSA,2D,1,1,1,1119,1195,832,608
+2019-07-22,WF978,Honningsvag / Valan (HVG/ENHV),Mehamn / Mehamn (MEH/ENMR),23:08:00,23:19:00,00:11:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIW,8A,1,1,1,1195,4013,832,607
+2019-07-22,WF978,Mehamn / Mehamn (MEH/ENMR),Vadso / Vadso (VDS/ENVD),23:31:00,23:54:00,00:23:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIW,8A,1,1,1,4013,3159,832,607
+2019-07-23,WF978,Vadso / Vadso (VDS/ENVD),Kirkenes / Hoybuktmoen (KKN/ENKR),00:06:00,00:14:00,00:08:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIW,8A,1,1,1,3159,1443,832,607
+2019-07-23,WF971,Kirkenes / Hoybuktmoen (KKN/ENKR),Vadso / Vadso (VDS/ENVD),04:43:00,04:51:00,00:08:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIW,10A,1,1,1,1443,3159,832,607
+2019-07-23,WF971,Vadso / Vadso (VDS/ENVD),Alta / Alta (ALF/ENAT),05:08:00,05:51:00,00:43:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIW,10A,1,1,1,3159,103,832,607
+2019-07-23,WF863,Tromso / Tromso (TOS/ENTC),Andoya / Andoya (ANX/ENAN),10:46:00,11:11:00,00:25:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIC,10C,2,1,1,2989,135,832,607
+2019-07-23,WF863,Andoya / Andoya (ANX/ENAN),Bodo / Bodo (BOO/ENBO),11:29:00,12:12:00,00:43:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIC,9A,1,1,1,135,377,832,607
+2019-07-23,WF750,Bodo / Bodo (BOO/ENBO),Mosjoen / Mosjoen-Kjaerstad (MJF/ENMS),13:23:00,13:59:00,00:36:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WID,10D,1,1,1,377,1841,832,607
+2019-07-23,WF752,Mosjoen / Mosjoen-Kjaerstad (MJF/ENMS),Trondheim / Vaernes (TRD/ENVA),16:52:00,17:40:00,00:48:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WID,2D,1,1,1,1841,3003,832,607
+2019-07-23,WF487,Trondheim / Vaernes (TRD/ENVA),Torp / Sandefjord (TRF/ENTO),19:38:00,20:37:00,00:59:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-WDI,2D,1,1,1,3003,3005,832,610
+2019-07-24,WF436,Torp / Sandefjord (TRF/ENTO),Stavanger / Sola (SVG/ENZV),08:57:00,09:32:00,00:35:00,Wideroe (WF/WIF),Bombardier Dash 8-400 (DH8D),LN-RDZ,1A,1,1,1,3005,2809,832,610
+2019-07-20,WF515,Molde / Molde (MOL/ENML),Bergen / Flesland (BGO/ENBR),12:30:00,13:17:00,00:47:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),LN-WFH,1D,1,1,1,1908,289,832,609
+2019-07-23,WF971,Alta / Alta (ALF/ENAT),Tromso / Tromso (TOS/ENTC),06:16:00,06:50:00,00:34:00,Wideroe (WF/WIF),Bombardier Dash 8-100 (DH8A),LN-WIW,10A,1,1,1,103,2989,832,607
+2020-02-24,SK4002,Stavanger / Sola (SVG/ENZV),Oslo / Gardermoen (OSL/ENGM),06:10:00,07:00:00,00:50:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),,,1,1,1,2809,2219,677,230
+2020-02-24,SK4719,Oslo / Gardermoen (OSL/ENGM),Milan / Malpensa (MXP/LIMC),11:10:00,13:50:00,02:40:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),,,1,1,1,2219,1983,677,231
+2020-02-29,SK1686,Milan / Malpensa (MXP/LIMC),Copenhagen / Kastrup (CPH/EKCH),11:20:00,13:25:00,02:05:00,Scandinavian Airlines (SK/SAS),Airbus A321-200 (A321),,,1,1,1,1983,606,677,2076
+2020-02-29,SK2868,Copenhagen / Kastrup (CPH/EKCH),Bergen / Flesland (BGO/ENBR),14:05:00,15:25:00,01:20:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),,,1,1,1,606,289,677,531
+2020-02-29,WF547,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),16:45:00,17:25:00,00:40:00,Wideroe (WF/WIF),Bombardier Dash 8-300 (DH8C),,,1,1,1,289,2809,832,609
+2019-09-11,SK278,Bergen / Flesland (BGO/ENBR),Oslo / Gardermoen (OSL/ENGM),16:51:00,17:29:00,00:38:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RNO,11A,1,1,1,289,2219,677,230
+2019-09-12,SK299,Oslo / Gardermoen (OSL/ENGM),Bergen / Flesland (BGO/ENBR),22:46:00,23:30:00,00:44:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RRM,11A,1,1,1,2219,289,677,230
+2019-10-21,SK898,Bergen / Flesland (BGO/ENBR),Stockholm / Arlanda (ARN/ESSA),10:35:00,11:55:00,01:16:00,Scandinavian Airlines (SK/SAS),Boeing 737-700 (B737),LN-RRB,11A,1,1,1,289,3622,677,230
+2019-10-21,SK1853,Stockholm / Arlanda (ARN/ESSA),Alicante / Alicante (ALC/LEAL),13:47:00,17:51:00,04:04:00,Scandinavian Airlines (SK/SAS),Airbus A320neo (A20N),LN-RGL,20A,1,1,1,3622,102,677,2127
+2019-10-26,SK4730,Alicante / Alicante (ALC/LEAL),Bergen / Flesland (BGO/ENBR),22:27:00,01:36:00,03:09:00,Scandinavian Airlines (SK/SAS),Boeing 737-800 (B738),LN-RGI,9E,2,1,1,102,289,677,231
+2019-12-07,SK4163,Bergen / Flesland (BGO/ENBR),Stavanger / Sola (SVG/ENZV),16:10:00,16:45:00,00:35:00,Scandinavian Airlines (SK/SAS),Bombardier CRJ-900 (CRJ9),,,1,1,1,289,2809,677,531
