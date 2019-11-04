@@ -5,8 +5,6 @@ import javafx.scene.chart.CategoryAxis;
 import javafx.scene.chart.NumberAxis;
 import javafx.scene.chart.XYChart;
 import javafx.stage.Stage;
-import javafx.util.StringConverter;
-
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -24,7 +22,7 @@ public class HistogramGenerator extends Application {
         final BarChart<String,Number> bc =
                 new BarChart<>(xAxis,yAxis);
         bc.setTitle("Flight Diary");
-        xAxis.setLabel("Registration");
+        xAxis.setLabel(fd.getCategory());
         yAxis.setLabel("Times flown");
         yAxis.setMinorTickVisible(false);
         bc.setLegendVisible(false);

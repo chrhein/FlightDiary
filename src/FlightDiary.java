@@ -7,18 +7,22 @@ import static java.util.stream.Collectors.toMap;
 public class FlightDiary extends HistogramGenerator {
     private static LinkedHashMap<String, Integer> sorted;
     private static int amountToShow;
+    private static String category;
 
     public static void main(String[] args) throws IOException {
         String csvFile = "assets/fd.csv";
         BufferedReader br;
         String line;
         String csvSplitBy = ",";
+        int n = categoryChooser();
         ArrayList<String> regs = new ArrayList<>();
         br = new BufferedReader(new FileReader(csvFile));
+        boolean skipFirstLine = true;
         while ((line = br.readLine()) != null) {
             String[] s = line.split(csvSplitBy);
-            String reg = s[9];
-            if (!reg.equals("") && !reg.equals("Registration")) regs.add(reg);
+            String reg = s[n];
+            if (!reg.equals("") && !skipFirstLine) regs.add(reg);
+            skipFirstLine = false;
         }
         amountToShow = 10;
         countFrequencies(regs);
@@ -49,11 +53,39 @@ public class FlightDiary extends HistogramGenerator {
         }
     }
 
+    private static int categoryChooser() {
+        Scanner in = new Scanner(System.in);
+        category = in.nextLine();
+        int n;
+        switch (category) {
+            case "Date":
+                n = 0;
+                break;
+            case "Flight number":
+                n = 1;
+                break;
+            case "Airline":
+                n = 7;
+                break;
+            case "Seat":
+                n = 10;
+                break;
+            default:
+                n = 9;
+                break;
+        }
+        return n;
+    }
+
     Map<String, Integer> getRegistrations() {
         return sorted;
     }
 
     int getAmountToShow() {
         return amountToShow;
+    }
+
+    String getCategory() {
+        return category;
     }
 }
