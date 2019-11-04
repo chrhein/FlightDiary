@@ -46,7 +46,8 @@ public class FlightDiary extends HistogramGenerator {
     }
 
     private static void printOut(Map<String, Integer> hm) {
-        System.out.println("Unique registrations: " + hm.size());
+        String s = category.toLowerCase();
+        System.out.println("Unique " + s + "s: " + hm.size());
         for (Map.Entry<String, Integer> val : hm.entrySet()) {
             System.out.printf("%s: %d %s%n",
                     val.getKey(), val.getValue(), (val.getValue() == 1) ? "time" : "times");
@@ -71,6 +72,7 @@ public class FlightDiary extends HistogramGenerator {
                 n = 10;
                 break;
             default:
+                category = "Registration";
                 n = 9;
                 break;
         }
